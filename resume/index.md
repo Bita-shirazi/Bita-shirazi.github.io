@@ -6,7 +6,8 @@
 
 + BirthDate
   - 16/3/2000
-+ single + I study as a computer engineer 
++ single 
++ I study as a computer engineer 
 + Mobile
   -09905577054
 + Email
