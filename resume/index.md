@@ -64,5 +64,5 @@ As a computer software student  with a small amount of c+ language knowledge.
 
 ---
 
-[رزومه فارسی]
+[رزومه فارسی](https://github.com/Bita-shirazi/Bita-shirazi.github.io/blob/master/resume/index-fa.md)
 
