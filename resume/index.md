@@ -42,7 +42,7 @@ As a computer software student  with a small amount of c+ language knowledge.
 
 ---
 
-+ English and persian Native
++ English and persian Native and turkish
   
   
   
